@@ -7,7 +7,11 @@ Install The dependencies :
 
           $pip innstal pillow
           $pip install qrcode
-     
+          $pip install termcolor
+          
+          
+          
+          
      
  
 
