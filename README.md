@@ -12,9 +12,31 @@ Install The dependencies :
           $pip install qrcode
           $pip install termcolor
           
-          
-          
-          
-     
+         
+<h1 align="left">Installation In Linux</h1>
+
+<ul>
+  <li>$sudo apt-get update && upgrade</li>
+  <li>$sudo apt-get install python</li>
+  <li>$sudo apt-get install git</li>
+  <li>$git clone https://github.com/Cyber-Dome/QRcode_generator.git</li>
+  <li>$cd QRcode_generator</li>
+  <li>$chmod +x *</li>
+  <li>$pip install -r requirements.txt</li>
+  <li>Now Run The Script $python qrgen.py</li>
+</ul>
+
+<p>>Now Enter the URL and hit enter </p>
+<p>Enter a name to qrcode with ".png" (example=yourname.png)</p>
+
+![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhm6__RSYzy3oUF90Ke92R96WsOFzIU_URDmEAQ6L3cKmKvFs2Abqc2BcCwM3EFbQX6SlBgmdAdVNm7sOb3q-vE0SXwUI4NCIh_VxIh9aZqKDGNrO6yuR4oz7XtGMtyibZ01fvO5ApeS_N1bOcALio46Hez7z4rzSnR9NWZtsRdxz2EBbyUoFq8L7I/w640-h376/Untitled%20design%20(1).png)
+<p>your qrcode was successfully generated ... :)</p>        
+  <h1 align="left">Follow us</h1>        
+ <p align="left"> <a href="https://www.blogger.com/follow.g?blogID=717805508540449521" target="blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" </a> </p>          
+  <p align="left"> <a href="https://www.youtube.com/@CyberDomeYT/videos" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" </a> </p>         
+    
+ <h1 allign="left">Contact Me</h1>
+  <p align="left"> <a href="probotprob@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a> </p>  
+
  
 
